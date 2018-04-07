@@ -1,0 +1,120 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fantasma.cpp
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+Fantasma.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fantasma.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fantasma.hpp
+Objeto.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fruta.cpp
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+Fruta.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fruta.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fruta.hpp
+Objeto.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.cpp
+Objeto.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+iostream
+-
+GL/glut.h
+-
+glm/glm.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+glm/gtx/string_cast.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+glm/gtx/transform.hpp
+-
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Pacman.cpp
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+Pacman.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Pacman.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Pacman.hpp
+Objeto.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/jogo.cpp
+stdlib.h
+-
+stdio.h
+-
+jogo.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/jogo.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/jogo.hpp
+iostream
+-
+vector
+-
+list
+-
+GL/glut.h
+-
+Objeto.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+parede.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/parede.hpp
+Pacman.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Pacman.hpp
+Fantasma.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fantasma.hpp
+Fruta.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Fruta.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/main.cpp
+iostream
+-
+thread
+-
+jogo.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/jogo.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/parede.cpp
+stdlib.h
+-
+stdio.h
+-
+parede.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/parede.hpp
+
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/parede.hpp
+Objeto.hpp
+/home/filipe/Unifei/PDI/Trabalho Pacman/src/Objeto.hpp
+
